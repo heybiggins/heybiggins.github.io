@@ -200,6 +200,27 @@ a {
     color: #a19783
 }
 
+.content ul {
+    margin: 0 0 20px;
+    padding-left: 1.2em;
+}
+
+.content li {
+    margin-bottom: 8px;
+}
+
+.page-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 10px;
+}
+
+.page-links .button:hover {
+    border-color: #000;
+    color: #000;
+}
+
 hr {
     border: 0; /* Remove default border */
     height: 1px; /* Set the height of the line */
