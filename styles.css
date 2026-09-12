@@ -209,6 +209,14 @@ a {
     margin-bottom: 8px;
 }
 
+.content blockquote {
+    margin: 0 0 20px;
+    padding: 16px 20px;
+    background-color: #f3f0e8;
+    border-radius: 10px;
+    color: #333;
+}
+
 .page-links {
     display: flex;
     flex-wrap: wrap;
